@@ -12,4 +12,4 @@
 
 ## Laboratory work tasks
 
-[Laboratory Work #1 Checkpoin #1]()
+[Laboratory Work #1 Checkpoin #1](https://github.com/Catalin-Tin/PAD/blob/main/LAB%201/CheckPoint1/Lab1_Checkpoint1.pdf)
